@@ -1,6 +1,6 @@
-#Hummus
+# Hummus
 ## Ingredients
-*Chickpeas
-*Tahini
-*Lemon
-*Salt
+* Chickpeas
+* Tahini
+* Lemon
+* Salt
